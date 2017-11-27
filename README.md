@@ -42,7 +42,6 @@ nyc-green-life/
 ├── app/
 	├── data/
 	├── www/
-├── doc/
 ```
 
 Please see each subfolder for a README file.
